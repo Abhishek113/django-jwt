@@ -16,3 +16,7 @@ Process:
 
 Recommendation: For sending request and reading responses use <a href="https://www.getpostman.com/">Postman</a>
 
+Screen Shots:
+
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+E
