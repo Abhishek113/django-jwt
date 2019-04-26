@@ -17,8 +17,27 @@ Process:
 Recommendation: For sending request and reading responses use <a href="https://www.getpostman.com/">Postman</a>
 
 Screen Shots:
+# User creation request:
 
 ![alt text](https://github.com/Abhishek113/django-jwt/blob/master/django_api_post_pman.png)
 
+# Response:
 
 ![alt text](https://github.com/Abhishek113/django-jwt/blob/master/django_api_post_response_pman.png)
+
+# Token generation request:
+
+![alt text](https://github.com/Abhishek113/django-jwt/blob/master/token_request.png)
+
+# Token Response:
+
+![alt text](https://github.com/Abhishek113/django-jwt/blob/master/token_response.png)
+
+
+# JWT structure:
+There are three components seperated by '.'
+1. Header
+2. Payload - User information
+3. signature
+
+
