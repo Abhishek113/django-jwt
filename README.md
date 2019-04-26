@@ -3,7 +3,7 @@
 This is authentication is django using JSON Web Token.
 
 # What is JWT?
-Basically JWT is a token which is a encoded string, formed using some user's public information (e.g. username or email) and a backend secret key (here Django's secret key, you can find it in settings. When django creates project it generate unique for it.)
+Basically JWT is a token which is a encoded string, formed using some user's public information (e.g. username or email) and a backend secret key (here Django's secret key, you can find it in settings.py . When django creates project it generate unique secret key for it.)
 
 # How JWT work?
 Process:
