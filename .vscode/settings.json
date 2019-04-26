@@ -1,0 +1,12 @@
+{
+    "python.pythonPath": "venv\\Scripts\\python.exe",
+    "python.linting.pep8Enabled": true,
+    "python.linting.pylamaPath": "C:\\Python36\\Scripts\\pylint",
+    "python.linting.pep8Path": "C:\\Python36\\Scripts\\pep8",
+    "python.linting.pylamaEnabled": true,
+    "python.linting.pylintArgs": [
+        "--load-plugins",
+        "pylint_django"
+    ],
+    "python.formatting.autopep8Path": "C:\\Python36\\Scripts\\autopep8",
+}
