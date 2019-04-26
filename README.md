@@ -18,5 +18,7 @@ Recommendation: For sending request and reading responses use <a href="https://w
 
 Screen Shots:
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
-E
+![alt text](https://github.com/Abhishek113/django-jwt/blob/master/django_api_post_pman.png)
+
+
+![alt text](https://github.com/Abhishek113/django-jwt/blob/master/django_api_post_response_pman.png)
